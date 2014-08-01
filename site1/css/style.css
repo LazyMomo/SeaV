@@ -106,7 +106,7 @@ a:hover, a:active {
 	text-decoration: none;
 }
 .main-header nav a:hover, .main-headernav a:active, .main-headernav .active a:link, .main-headernav .active a:visited, a:focus {
-
+	border:3px solid black;
 	color: #F58634;
 	text-shadow: none !important;
 }
